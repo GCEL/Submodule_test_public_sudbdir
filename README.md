@@ -1,0 +1,2 @@
+# Submodule_test_public_sudbdir
+Public submodule
